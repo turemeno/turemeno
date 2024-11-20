@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @turemeno, the Turkish guy.
+- 👋 Hi, I’m @turemeno, a Turkish guy.
 - 👀 I’m interested in software engineering.
 - 🌱 I’m currently learning html-css-js.
 - 💞️ I’m looking to get a job on software engineering.
